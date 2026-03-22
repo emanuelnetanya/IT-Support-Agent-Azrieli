@@ -16,39 +16,39 @@ The whole thing runs from a single Google Colab notebook and is exposed to the i
 
 ### Login
 
-<img src="screenshots/01_login.png">
+<img src="screenshots/01_login.png" width="700">
 
 ### Home - Topic Selection and Popular Guides
 
-<img src="screenshots/02_home.png">
+<img src="screenshots/02_home.png" width="700">
 
 ### Chat - Getting Started with FAQ Suggestions
 
-<img src="screenshots/03_chat_start.png">
+<img src="screenshots/03_chat_start.png" width="700">
 
 ### Chat - RAG Response with PDF Guide and Image Carousel
 
-<img src="screenshots/04_chat_rag.png">
+<img src="screenshots/04_chat_rag.png" width="700">
 
 ### Chat - Terminal Commands with Copy Button
 
-<img src="screenshots/05_chat_commands.png">
+<img src="screenshots/05_chat_commands.png" width="700">
 
 ### Human-in-the-Loop - Ticket Confirmation
 
-<img src="screenshots/06_hitl_confirm.png">
+<img src="screenshots/06_hitl_confirm.png" width="700">
 
 ### Human-in-the-Loop - Editing Ticket Details
 
-<img src="screenshots/07_hitl_edit.png">
+<img src="screenshots/07_hitl_edit.png" width="700">
 
 ### Admin - Ticket Management Dashboard
 
-<img src="screenshots/08_admin_tickets.png">
+<img src="screenshots/08_admin_tickets.png" width="700">
 
 ### Knowledge Base - Browsable IT Guides
 
-<img src="screenshots/09_knowledge_base.png">
+<img src="screenshots/09_knowledge_base.png" width="700">
 
 ## Architecture
 
