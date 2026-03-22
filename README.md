@@ -15,31 +15,40 @@ The whole thing runs from a single Google Colab notebook and is exposed to the i
 ## Screenshots
 
 ### Login
-<img src="screenshots/01_login.png" width="700">
+
+<img src="screenshots/01_login.png">
 
 ### Home - Topic Selection and Popular Guides
-<img src="screenshots/02_home.png" width="700">
+
+<img src="screenshots/02_home.png">
 
 ### Chat - Getting Started with FAQ Suggestions
-<img src="screenshots/03_chat_start.png" width="700">
+
+<img src="screenshots/03_chat_start.png">
 
 ### Chat - RAG Response with PDF Guide and Image Carousel
-<img src="screenshots/04_chat_rag.png" width="700">
+
+<img src="screenshots/04_chat_rag.png">
 
 ### Chat - Terminal Commands with Copy Button
-<img src="screenshots/05_chat_commands.png" width="700">
+
+<img src="screenshots/05_chat_commands.png">
 
 ### Human-in-the-Loop - Ticket Confirmation
-<img src="screenshots/06_hitl_confirm.png" width="700">
+
+<img src="screenshots/06_hitl_confirm.png">
 
 ### Human-in-the-Loop - Editing Ticket Details
-<img src="screenshots/07_hitl_edit.png" width="700">
+
+<img src="screenshots/07_hitl_edit.png">
 
 ### Admin - Ticket Management Dashboard
-<img src="screenshots/08_admin_tickets.png" width="700">
+
+<img src="screenshots/08_admin_tickets.png">
 
 ### Knowledge Base - Browsable IT Guides
-<img src="screenshots/09_knowledge_base.png" width="700">
+
+<img src="screenshots/09_knowledge_base.png">
 
 ## Architecture
 
@@ -160,8 +169,8 @@ The entire project lives in one Google Colab notebook (18 cells):
 
 ## Authors
 
-- Emanuel
-- Chen
+- Emanuel Netanya
+- Chen Biazi
 - Eden Ben Israel
 
 Final project for the "Programming in a Generative AI Environment" course, Department of Industrial Engineering and Management, Azrieli College of Engineering, Jerusalem.
